@@ -25,5 +25,5 @@ cd my_app
 - Step 5: ** Create a Remote repo**
 This is done on GitHub
 
-- Step 6: **Conect my Local Repo to the Remote repo**
+- Step 6: **Connect my Local Repo to the Remote repo**
 
