@@ -18,3 +18,12 @@ cd my_app
     // "." refers to the current directory
 ```
 
+- Step 4: **Commit Changes**
+```
+    git commit -m "Version 0"
+```
+- Step 5: ** Create a Remote repo**
+This is done on GitHub
+
+- Step 6: **Conect my Local Repo to the Remote repo**
+
